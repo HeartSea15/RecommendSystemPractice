@@ -3,6 +3,11 @@
 ## 算法原理纯享
 
 博客地址：https://blog.csdn.net/Magical_Bubble/article/details/88371289
+github地址：https://github.com/HeartSea15/RecommendSystemPractice.git
+
+其他分享资源：
+勘误：https://www.ituring.com.cn/book/894
+github代码： https://github.com/qcymkxyc/RecSys
 
 《推荐系统实践》算法纯享   https://blog.csdn.net/magical_bubble/article/details/88570960
 读书笔记《推荐系统实战》 https://blog.csdn.net/qq_40006058/article/details/82958550
